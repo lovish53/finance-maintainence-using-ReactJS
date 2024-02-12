@@ -1,0 +1,15 @@
+Steps to run project
+-Download the zip file 
+-Extract the file 
+-Open the folder in vs code 
+-Open package.json file in "api" folder 
+-Open terminal 
+-Access the api folder by using command "cd api" 
+-Use command "npm i" {This will install node modules and package-lock.json file in api folder}
+-Now use "npm run serverRun" 
+-Open new terminal 
+-Access the folder using command "cd login" 
+-Open package.json file in "login" folder 
+-Again use command "npm i" {This will install node modules and package-lock.json file in login folder}
+-After complete installation, use "npm start"
+-You are good to go.
